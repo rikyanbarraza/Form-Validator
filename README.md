@@ -2,7 +2,7 @@
 -----------------------------------------------------
 * How to keep people on the right path
  ----------------------------------------------------
-* https://stupefied-stonebraker-2ab2f3.netlify.app/ (Live demo)
+* https://stupefied-stonebraker-2ab2f3.netlify.app (Live demo)
 -----------------------------------------------------
 ![Error](https://user-images.githubusercontent.com/72126060/133803819-c7c82d8f-9623-4b0a-bec9-e060ebd23d15.jpg)
 -----------------------------------------------------
